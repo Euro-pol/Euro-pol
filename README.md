@@ -2,7 +2,7 @@
 
 ## I'm timof121
 
-- 🔭 I’m currently working on GatoWare, Ghost & TimBW!
+- 🔭 I’m currently working on GatoWare, Ghost (kinda inactive only recode)!
 - 😎 I know Python, and Java pretty good.
 - 🌱 I’m currently learning C#.
 - 💬 My current discord is `timof121#9999` <<< In case I get termed.
