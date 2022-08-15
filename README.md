@@ -9,5 +9,3 @@
 
 ![timof121 GitHub stats](https://github-readme-stats.vercel.app/api?username=timof121&show_icons=true&theme=radical)
 
-![timof121#9999](https://discord-readme-badge.vercel.app/api?id=635118978787704864)
-
