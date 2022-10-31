@@ -12,4 +12,4 @@
 
 ![timof121 GitHub stats](https://github-readme-stats.vercel.app/api?username=timof121&show_icons=true&theme=radical)
 
-[![Discord](https://lanyard.cnrad.dev/api/635118978787704864)](https://discord.com/users/635118978787704864)
+[![Discord](https://lanyard.cnrad.dev/api/1014218824666591315)](https://discord.com/users/1014218824666591315)
