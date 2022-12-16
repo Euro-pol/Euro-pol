@@ -6,7 +6,6 @@
 - 😎 I know Python, and Java pretty good.
 - 🌱 I’m currently learning C#.
 - 💬 Only discord accounts: ~~timof121#3513~~ termed, `not timof121#6582`.
-- 😀 Pronouns: he/him
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timof121&theme=dark)
 
