@@ -2,7 +2,7 @@
 
 ## I'm timof121
 
-- 🔭 I’m currently working on ghost v3 (abit) 🥶
+- 🔭 I’m currently working on -
 - 😎 I know Python, and Java pretty good.
 - 🌱 I’m currently learning C#.
 - 💬 Only discord accounts: ~~timof121#3513~~ termed, `timof121#0001`.
