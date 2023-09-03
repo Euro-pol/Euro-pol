@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Euro Police
+## I'm Euro-pol
 
 - 🔭 I’m currently working on -
 - 😎 I know Python pretty good.
