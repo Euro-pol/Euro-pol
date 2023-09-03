@@ -3,8 +3,7 @@
 ## I'm Euro Police
 
 - 🔭 I’m currently working on -
-- 😎 I know Python, and Java pretty good.
-- 🌱 I’m currently learning Go.
-- 💬 Only discord accounts: ~confirmed#9999~ i got fucking terminated again  
-###### verizon employee, robloxgamer and thievish are termed
-[![Discord](https://lanyard.cnrad.dev/api/1105362045655842906?borderRadius=5px&animated=true&bg=transparent&hideTimestamp=true&idleMessage=Nothing...)](https://discord.com/users/1105362045655842906)
+- 😎 I know Python pretty good.
+- 🌱 I’m currently not learning anything.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dme638cm58keoxcr707wka8jh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
